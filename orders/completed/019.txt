@@ -1,0 +1,17 @@
+Amanda Faulkner
+846 Gary Isle
+Adamchester, ID 49056
+onions 2 7.98
+bread 5 7.95
+chicken breast 3 32.34
+cheese 3 26.97
+ground beef 1 6.99
+chicken thigh 5 44.95
+tomato 1 2.99
+apple 4 5.96
+lemon 5 5.0
+orange 5 5.95
+potato 1 1.49
+milk 2 6.98
+bananas 3 10.47
+!!Total amount is $166.02!!!

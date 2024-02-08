@@ -1,0 +1,14 @@
+Christopher Jones
+05544 Rivera Junctions
+North Melissa, TX 13104
+ground beef 3 20.97
+potato 5 7.45
+milk 1 3.49
+apple 4 5.96
+bread 3 4.77
+lemon 4 4.0
+bananas 3 10.47
+eggs 3 13.47
+onions 2 7.98
+chicken thigh 3 26.97
+!!Total amount is $105.53!!!

@@ -1,0 +1,11 @@
+Christine Graves
+2044 King Lane
+New Taylorburgh, FM 21674
+eggs 4
+bread 2
+apple 5
+potato 3
+cheese 3
+milk 4
+raspberries 5
+orange 3

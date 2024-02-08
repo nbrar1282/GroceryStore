@@ -1,0 +1,10 @@
+Emily Shannon
+209 Floyd Burg
+Laurabury, VT 05104
+raspberries 1
+bananas 3
+ground beef 1
+potato 3
+bread 5
+tomato 3
+cheese 2

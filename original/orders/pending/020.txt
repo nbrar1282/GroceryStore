@@ -1,0 +1,11 @@
+Elizabeth Atkins
+984 Roberto Ports Suite 231
+Michaeltown, WI 05788
+raspberries 1
+apple 1
+milk 3
+bread 3
+lemon 2
+bananas 1
+tomato 2
+ground beef 1

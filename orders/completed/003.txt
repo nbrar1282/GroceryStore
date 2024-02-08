@@ -1,0 +1,15 @@
+Angel Ellis
+8266 Kimberly Lane
+Martinport, FL 96792
+cheese 5 44.95
+onions 5 7.98
+chicken thigh 4 35.96
+raspberries 1 7.99
+apple 4 5.96
+bread 1 1.59
+tomato 4 11.96
+eggs 4 17.96
+potato 3 4.47
+chicken breast 4 43.12
+ground beef 5 34.95
+!!Total amount is $216.89!!!

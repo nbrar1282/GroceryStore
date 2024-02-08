@@ -1,0 +1,16 @@
+Doris Lewis
+97345 Jennifer Junctions
+New Danielleberg, ND 80885
+raspberries 3 23.97
+ground beef 3 20.97
+eggs 2 8.98
+potato 1 1.49
+apple 4 5.96
+onions 3 11.97
+milk 3 10.47
+orange 4 4.76
+chicken breast 4 43.12
+lemon 1 1.0
+cheese 3 26.97
+chicken thigh 2 17.98
+!!Total amount is $177.64!!!

@@ -1,0 +1,70 @@
+string functions
+string.split() split in number of words
+string.join() joins a set of array 
+
+trans_table = str.maketrans('233233',/sdeddf')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+python week 7
+d = open('file_nmae.txt', 'r')
+d.readline()
+d.readlines()
+
+d = open('file_nmae.txt', 'r')
+for line in d.readlines()
+        print(line)
+
+d = open('file_nmae.txt', 'w')
+print(d) will create new file
+
+d.write('line1/n')
+d.write('line2'\n)
+d.close()
+this will add new lines to file
+
+
+
+
